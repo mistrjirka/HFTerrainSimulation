@@ -1,0 +1,9 @@
+[submodule "Plugins/roscontrol"]
+	path = Plugins/roscontrol
+	url = git@gitlab.fel.cvut.cz:svitijir/roscontrol.git
+[submodule "Plugins/MetaLidar"]
+	path = Plugins/MetaLidar
+	url = git@gitlab.fel.cvut.cz:pragrmi1/crl-cdt.git
+[submodule "Plugins/ROSControl"]
+	path = Plugins/ROSControl
+	url = git@gitlab.fel.cvut.cz:svitijir/roscontrol.git
